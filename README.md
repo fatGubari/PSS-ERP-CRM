@@ -1,8 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About 
+Is an ERP/CRM system.
 
 ## Getting Started
-
-First, run the development server:
 
 ```bash
 npm run dev
@@ -12,27 +11,18 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Website Photos:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![screencapture-localhost-3000-2024-10-07-20_45_40](https://github.com/user-attachments/assets/e0af4efa-5eb2-4b26-9fc6-55f9596d4b44)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![screencapture-localhost-3000-sales-2024-10-07-20_49_33](https://github.com/user-attachments/assets/58f60f03-4add-499f-b4af-7ddbde217105)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![screencapture-localhost-3000-salesPages-createdetails-2024-10-07-20_48_52](https://github.com/user-attachments/assets/ea44866d-c04f-4168-b73c-7c76b6175865)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![screencapture-localhost-3000-sales-2024-10-07-20_47_56](https://github.com/user-attachments/assets/2512d8ec-97ef-4deb-a760-070b7f463fea)
 
-## Learn More
+![screencapture-localhost-3000-2024-10-07-20_47_31](https://github.com/user-attachments/assets/10b94bad-436d-4636-9130-fffd42513bf8)
 
-To learn more about Next.js, take a look at the following resources:
+## The website is fully responsivee:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![screencapture-localhost-3000-2024-10-07-20_50_50](https://github.com/user-attachments/assets/3c337bd4-a207-47d4-a6e2-963585892030)
